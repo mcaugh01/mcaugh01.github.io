@@ -1,0 +1,12 @@
+.section {
+	padding-left: 10px;
+}
+
+.section-head {
+	padding-left: 12px;
+	border-bottom-width: 1px;
+}
+
+.section-content {
+	padding-left: 15px;
+}
