@@ -5,8 +5,12 @@
 .section-head {
 	padding-left: 12px;
 	border-bottom-width: 1px;
+	border-bottom-style: solid;
 }
 
 .section-content {
 	padding-left: 15px;
+}
+.header {
+	padding-bottom: 5px;
 }
