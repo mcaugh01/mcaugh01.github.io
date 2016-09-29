@@ -14,3 +14,8 @@
 	padding-bottom: 5px;
 	text-align: center;
 }
+.page-head-title {
+	font-weight: bold;
+	font-size: 200%;
+	margin-bottom: 0px;
+}
